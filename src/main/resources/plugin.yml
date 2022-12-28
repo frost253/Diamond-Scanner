@@ -1,0 +1,11 @@
+name: DiamondScanner
+version: '${project.version}'
+main: me.ryanlogan.diamondscanner.DiamondScanner
+api-version: 1.19
+authors: [ RyanLogan ]
+description: when you type the command, it will tell you where the nearest diamond ore is
+commands:
+  scanfordiamond:
+    description: n/a
+    usage: /<command>
+    aliases: []
